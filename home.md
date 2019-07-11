@@ -1,1 +1,9 @@
-<img src="/tex/47d54de4e337a06266c0e1d22c9b417b.svg?invert_in_darkmode&sanitize=true" align="middle" width="6.552545999999997pt" height="27.77565449999998pt"/>
+#About Me
+
+Hello! My name is Amara and I am a first year physics graduate student studying high energy theory at UCSB. This website serves as a tool for me to organize and write up my current research, notes on what I am learning, and papers that I am reading.
+
+#QFT Notes
+
+#Strong CP
+
+#Previous Work

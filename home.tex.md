@@ -8,6 +8,8 @@ Welcome! My name is Amara and I am a first year physics graduate student studyin
 
 ## Course Notes
 
+## Notes on Papers
+
 ## Outreach
 
 ## Contact

@@ -4,7 +4,7 @@ Welcome! My name is Amara and I am a second year physics PhD student studying hi
 
 ## About
 
-Originally from Stoughton, Wisconsin, I have bachelor's degrees in physics and mathematics from Stanford University, where I completed a variety of research projects in AMO, astrophysics, and cosmology. I also spent a summer at CERN as part of the University of Michigan REU program. 
+Originally from Stoughton, Wisconsin, I have bachelor's degrees in physics and mathematics with honors from Stanford University, where I completed a variety of research projects in AMO, astrophysics, and cosmology. I also spent a summer at CERN as part of the University of Michigan REU program. 
 
 ## My Work
 

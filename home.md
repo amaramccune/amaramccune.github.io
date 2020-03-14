@@ -16,7 +16,7 @@ I am generally interested in developments in field theory and cosmological appli
 
 ## Outreach
 
-I am a blogger for the gradudate student-run website ParticleBites. We write articles on recent developments in particle physics and summarize interesting concepts for an undergraduate-level audience. You can find my articles here: https://particlebites.com/?author=27
+I am a blogger for the graduate student-run website ParticleBites. We write articles on recent developments in particle physics and summarize interesting concepts for an undergraduate-level audience. You can find my articles here: https://particlebites.com/?author=27
 
 This past summer, I had the opportunity to volunteer as a teching fellow for the Mongolian Young Scholars Program (MYSP) in Ulaanbaatar, Mongolia. I developed a week-long course on cosmology and served as a mentor to a group of 30 high school students. http://mysp.world/
 
